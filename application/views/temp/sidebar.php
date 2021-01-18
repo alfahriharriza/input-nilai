@@ -9,7 +9,7 @@
       <!-- Sidebar user (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
-          <img src="<?= base_url('vendor/adminlte/'); ?>dist/img/fahri.png" class="img-circle elevation-2" alt="Administrator">
+          <img src="<?= base_url('vendor/adminlte/'); ?>dist/img/fahri.jpg" class="img-circle elevation-2" alt="Administrator">
         </div>
         <div class="info">
           <a href="#" class="d-block">Administrator</a>

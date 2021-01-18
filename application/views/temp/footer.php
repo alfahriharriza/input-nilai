@@ -1,5 +1,5 @@
 <footer class="main-footer text-center">
-    <strong>Copyright &copy; <?= date('Y'); ?> <span><a href="https://github.com/alfahriharriza">Alfahri Harriza</a></span>.</strong> All rights
+    <strong>Copyright &copy; <?= date('Y'); ?> <span><a href="https://github.com/harriza">Tukang Ketik</a></span>.</strong> All rights
     reserved.
   </footer>
 
